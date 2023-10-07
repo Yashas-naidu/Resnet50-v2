@@ -1,4 +1,4 @@
-<h3><b>Model Description and Architecture</b></h3>
+<h1><b>Model Description and Architecture</b></h1>
   <br>
 ResNet50-v2, short for Residual Network 50 version 2, is a powerful deep convolutional neural network (CNN) architecture that has made significant contributions to various computer vision tasks, including image classification, object detection, and more. It is an improved version of the original ResNet architecture designed to address some of the challenges associated with training very deep neural networks.
 
